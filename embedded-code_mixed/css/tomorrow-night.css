@@ -1,0 +1,95 @@
+#tomorrow-night {
+  /* Specify class=linenums on a pre to get line numbering */
+}
+
+#tomorrow-night .prettyprint {
+  background: #1d1f21;
+  font-family: Menlo, "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monaco, Consolas, monospace;
+  border: 0 !important;
+}
+
+#tomorrow-night .pln {
+  color: #c5c8c6;
+}
+
+@media screen {
+  #tomorrow-night {
+    /* string content */
+    /* keyword */
+    /* comment */
+    /* type name */
+    /* literal value */
+    /* punctuation */
+    /* lisp open bracket */
+    /* lisp close bracket */
+    /* markup tag name */
+    /* markup attribute name */
+    /* markup attribute value */
+    /* declaration */
+    /* variable name */
+    /* function name */
+  }
+  #tomorrow-night .str {
+    color: #b5bd68;
+  }
+  #tomorrow-night .kwd {
+    color: #b294bb;
+  }
+  #tomorrow-night .com {
+    color: #969896;
+  }
+  #tomorrow-night .typ {
+    color: #81a2be;
+  }
+  #tomorrow-night .lit {
+    color: #de935f;
+  }
+  #tomorrow-night .pun {
+    color: #c5c8c6;
+  }
+  #tomorrow-night .opn {
+    color: #c5c8c6;
+  }
+  #tomorrow-night .clo {
+    color: #c5c8c6;
+  }
+  #tomorrow-night .tag {
+    color: #cc6666;
+  }
+  #tomorrow-night .atn {
+    color: #de935f;
+  }
+  #tomorrow-night .atv {
+    color: #8abeb7;
+  }
+  #tomorrow-night .dec {
+    color: #de935f;
+  }
+  #tomorrow-night .var {
+    color: #cc6666;
+  }
+  #tomorrow-night .fun {
+    color: #81a2be;
+  }
+}
+
+#tomorrow-night ol.linenums {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #969896;
+}
+
+#tomorrow-night li.L0,
+#tomorrow-night li.L1,
+#tomorrow-night li.L2,
+#tomorrow-night li.L3,
+#tomorrow-night li.L4,
+#tomorrow-night li.L5,
+#tomorrow-night li.L6,
+#tomorrow-night li.L7,
+#tomorrow-night li.L8,
+#tomorrow-night li.L9 {
+  padding-left: 1em;
+  background-color: #1d1f21;
+  list-style-type: decimal;
+}

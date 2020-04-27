@@ -1,0 +1,11 @@
+pre {
+  background-color: #272822;
+  overflow-x: scroll;
+  overflow: auto;
+}
+
+code {
+  font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  font-size: 14px;
+  line-height: 1.4;
+}
